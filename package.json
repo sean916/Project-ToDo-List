@@ -1,0 +1,28 @@
+{
+  "name": "Project-ToDo-List",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean916/Project-ToDo-List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean916/Project-ToDo-List/issues"
+  },
+  "homepage": "https://github.com/sean916/Project-ToDo-List#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "date-fns": "^2.14.0"
+  }
+}
